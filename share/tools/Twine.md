@@ -4,4 +4,4 @@ Twine实际上是一个创建超文本故事的开源工具。超文本和线性
 
 有关Twine的详细信息，请参阅：Twine 2 Guide, http://twinery.org/wiki/twine2:guide
 
-其它会话式交互设计工具，请参阅：，《智能服务与交互设计技术》 5.3 会话式交互设计工具：https://www.grandsw.com/class/mod/book/view.php?id=229&chapterid=165
+有关其它会话式交互设计工具，请参阅：《智能服务与交互设计技术》 5.3 会话式交互设计工具：https://www.grandsw.com/class/mod/book/view.php?id=229&chapterid=165
