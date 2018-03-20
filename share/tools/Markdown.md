@@ -1,4 +1,5 @@
-### Markdown快速入门
+Markdown快速入门 / ([点击查看完整语法说明](http://wowubuntu.com/markdown/index.html))
+================
 
 原文链接（http://wowubuntu.com/markdown/basic.html）
 
@@ -14,8 +15,6 @@ Markdown其实很简单就可以上手，本文提供了 Markdown 的简单概�
 [g]: http://gitcafe.com/riku/Markdown-Syntax-CN
 [GitCafe]: http://gitcafe.com/riku/Markdown-Syntax-CN/
 
-Markdown: Basics （快速入门） / ([点击查看完整语法说明](./index.html))
-================
 
 Getting the Gist of Markdown's Formatting Syntax
 ------------------------------------------------
