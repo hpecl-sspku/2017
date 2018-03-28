@@ -12,8 +12,10 @@ https://github.com/alphacep/chatbot-retrieval
 
 但需要更新udc_predict.py最后一行如下：
 
+
    for pred_dict in zip(prob):
       
       print("{}: {}".format(r, pred_dict[0]))
+
 
 4.Ryan Lowe et.al, “The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems”, Feb 4, 2016 https://arxiv.org/pdf/1506.08909.pdf
