@@ -259,10 +259,10 @@ Markdown 语法:
 
 Markdown 语法:
 
-`First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column`
+	First Header | Second Header
+	------------ | -------------
+	Content from cell 1 | Content from cell 2
+	Content in the first column | Content in the second column
 
 输出为：
 
