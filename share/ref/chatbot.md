@@ -12,7 +12,7 @@ https://github.com/alphacep/chatbot-retrieval
 
 但需要更新udc_predict.py最后一行如下：
 
-      for pred_dict in zip(prob):
+   for pred_dict in zip(prob):
       
       print("{}: {}".format(r, pred_dict[0]))
 
