@@ -252,7 +252,25 @@ Markdown 语法:
 	&lt;p&gt;For example.&lt;/p&gt;
 	&lt;/blockquote&gt;
 	</code></pre>
-  
+
+### 表格 ###
+
+第一行使用 `-` , 然后使用` |` 来分隔列。
+
+Markdown 语法:
+
+`First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column`
+
+输出为：
+
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
   ----------
 <h2 id="editor">Markdown 免费编辑器</h2>
 
