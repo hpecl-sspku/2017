@@ -1,23 +1,18 @@
----
-title: “会话式交互智能家居”项目开发环境 
-grammar_cjkRuby: true
----
+
+# “会话式交互智能家居”项目开发环境 
 
 ## 1 硬件执行环境
-----------
  - **树莓派2**
  - **MicroWRT**
-- **Microduino-core**
+ - **Microduino-core**
 
 
  
  ## 2 软件运行环境
- ----------
  - **Raspbian**
  - **Ubuntu 8.04**
  
  ## 3 编程开发环境
- ------
  - **Python开发环境：PyCharm**
  PyCharm是一种Python IDE，带有一整套可以帮助用户在使用Python语言开发时提高其效率的工具，比如调试、语法高亮、Project管理、代码跳转、智能提示、自动完成、单元测试、版本控制。此外，该IDE提供了一些高级功能，以用于支持Django框架下的专业Web开发。
  关于PyCharm的下载和使用，请点击Pycharm的[官方网站][1]进行查看。
