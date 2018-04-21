@@ -2,7 +2,7 @@
 ## 1.DuerOS
 
  - DuerOS开发文档
- - https://dueros.baidu.com/didp/doc/index
+   https://dueros.baidu.com/didp/doc/index
    
  - UNIT技术文档
    http://ai.baidu.com/docs#/UNIT-guide/top
