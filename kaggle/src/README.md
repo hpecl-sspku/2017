@@ -2,7 +2,7 @@
 
 This is the Solution for data science bowl 2018 challenge
 
-the result for publc LB is 0.557 at 39/3634
+the result for publc LB is 0.557 at 39/3634（https://www.kaggle.com/yutian11308023/competitions）
 
 The code is based on mateerport's mask rcnn：[https://github.com/matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 
