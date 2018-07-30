@@ -29,7 +29,8 @@
  
 ### 代码替换
 
-使用Filezilla直接将文件上传至以下目录进行文件替换，或使用其他方法进行替换
+使用Filezilla直接将文件上传至以下目录进行代码文件替换，或使用其他方法进行替换
+
 *DuerOS-Python-Client/app:应用目录*
 * DuerOS-Python-Client/app/wakeup_tirgger_main.py:[小度小度]触发唤醒实现模块
 
