@@ -1,11 +1,11 @@
 __author__ = 'mac'
-#coding='utf-8'impo#coding='utf-8'
+#coding='gbk'impo#coding='gbk'
 import csv
 import pandas as pd
 import jieba
 
-f1 =open("test.txt",encoding='gbk',errors='ignore')
-f2 =open("test_result.txt",'a')
+f1 =open("new1.txt",encoding='gbk',errors='ignore')
+f2 =open("fenci_result.txt",'a')
 lines =f1.readlines()  # 读取全部内容
 for line in lines:
     line.replace('\t', '').replace('\n', '').replace(' ','')
