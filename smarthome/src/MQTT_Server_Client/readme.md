@@ -7,7 +7,7 @@
 ### Python PubClient，SubClient获取（镜像中已安装好 MQTT Server）
 通过git下载代码到本地
 
-    # git clone https://github.com/hpecl-sspku/2017/smarthome/src/DuerOS_Python_Client.git
+    # git clone https://github.com/hpecl-sspku/2017/smarthome/src/MQTT_Server_Client.git
 
 ### 查看 MQTT Server 运行状态
 在树莓派终端执行
